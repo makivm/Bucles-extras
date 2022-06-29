@@ -24,7 +24,6 @@ public class PiramideAsteriscosCompleta {
 			System.out.println();
 		}
 		teclado.close();
-
 	}
 
 }
