@@ -27,7 +27,6 @@ public class PiramideAsteriscosIzquierda {
 			{
 				System.out.printf("*");
 			}
-			
 			System.out.println("");
 		}
 		teclado.close();
