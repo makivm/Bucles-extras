@@ -25,10 +25,10 @@ public class PiramideAsteriscosIzquierdaInvertida {
 		{
 			for(j=1;j<=i;j++) 
 			{
-				System.out.printf("*");
+				System.out.print("*");
 			}
 			
-			System.out.println("");
+			System.out.println();
 		}
 		teclado.close();
 
