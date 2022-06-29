@@ -12,7 +12,7 @@
 */
 import java.util.Scanner;
 
-public class PiramideAsteriscosDerecha {
+public class PiramideAsteriscosIzquierdaInvertida {
 
 	public static void main(String[] args) {
 		Scanner teclado=new Scanner(System.in);
